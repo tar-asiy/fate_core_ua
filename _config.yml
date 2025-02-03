@@ -4,13 +4,8 @@ title: "Fate Core UA"
 # Опис сайту
 description: "Перекладена версія офіційного довідника правил Fate Core System."
 
-# Тема, яку ви використовуєте (Architect)
-theme: jekyll-theme-architect
-
-#Стилі для виведення callout блоків
-sass:
-  style: compressed
-  sass_dir: _sass
+# Тема, яку ви використовуєте (Doks)
+remote_theme: getdoks/doks
 
 # Базова URL-адреса (якщо сайт розміщується не в корені домену)
 # Якщо ваш сайт розміщено за адресою "https://tar-asiy.github.io/fate_core_ua/", то baseurl має бути встановлено як "/fate_core_ua"
