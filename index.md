@@ -3,32 +3,29 @@ title: "Fate Core"
 layout: default
 description: "Перекладена версія офіційного довідника правил Fate Core System"
 ---
-
-# Fate Core
-
 Хапайте свої плазмові гвинтівки, магічні компоненти та реактивні ранці! Назвіть свою гру — Fate Core стане фундаментом, який зробить це можливим. Fate Core — це гнучка система, яка підтримає будь-які світи, які ви придумаєте. Завжди хотіли зіграти в постапокаліптичний спагеті-вестерн з монстрами-щупальцями? Мечі та чаклунство в космосі? Мрієте про гру за мотивами вашої улюбленої серії книг, фільмів чи телебачення, але такої ніколи не було? Fate Core — ваша відповідь.
 
 Fate Core — це настільна рольова гра про активних, здібних людей, які ведуть драматичне життя. Тип драми, яку вони переживають, залежить від вас. Але куди б вони не пішли, ви можете очікувати на захопливий досвід оповідання, повний поворотів... долі.
 
-## Зміст
+# Зміст
 
 ### Основні правила
-- [[fate-core/basics|Основи]]
-- [[fate-core/game-creation|Створення гри]]
-- [[fate-core/character-creation|Створення персонажа]]
-- [[fate-core/aspects-fate-points|Аспекти та очки долі]]
-- [[fate-core/skills-stunts|Навички та трюки]]
-- [[fate-core/actions-outcomes|Дії та результати]]
-- [[fate-core/challenges-contests-conflicts|Виклики, змагання та конфлікти]]
-- [[fate-core/running-game|Ведення гри]]
-- [[fate-core/scenes-sessions-scenarios|Сцени, сесії та сценарії]]
-- [[fate-core/long-game|Довга гра]]
+- [Основи]({{ site.baseurl }}/basics)
+- [Створення гри]({{ site.baseurl }}/game-creation)
+- [Створення персонажа]({{ site.baseurl }}/character-creation)
+- [Аспекти та очки долі]({{ site.baseurl }}/aspects-fate-points)
+- [Навички та трюки]({{ site.baseurl }}/skills-stunts)
+- [Дії та результати]({{ site.baseurl }}/actions-outcomes)
+- [Виклики, змагання та конфлікти]({{ site.baseurl }}/challenges-contests-conflicts)
+- [Ведення гри]({{ site.baseurl }}/running-game)
+- [Сцени, сесії та сценарії]({{ site.baseurl }}/scenes-sessions-scenarios)
+- [Довга гра]({{ site.baseurl }}/long-game)
 
 ### Додаткові матеріали
-- [[fate-core/extras|Додатки]]
-- [[fate-core/advancement|Розвиток]]
-- [[fate-core/being-gamemaster|Бути майстром гри]]
-- [[fate-core/optional-rules|Опціональні правила]]
+- [Додатки]({{ site.baseurl }}/extras)
+- [Розвиток]({{ site.baseurl }}/advancement)
+- [Бути майстром гри]({{ site.baseurl }}/being-gamemaster)
+- [Опціональні правила]({{ site.baseurl }}/optional-rules)
 
 > [!NOTE]
 > Це перекладена версія офіційного довідника правил Fate Core System. Оригінальні матеріали доступні на [fate-srd.com](https://fate-srd.com/).
