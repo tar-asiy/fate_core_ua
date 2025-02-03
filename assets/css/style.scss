@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-architect";
 
 .markdown-body {
   blockquote {
@@ -19,8 +19,6 @@
         display: block;
         font-weight: bold;
         margin-bottom: 0.5em;
-        /* Видаляємо технічну частину з дужками */
-        content: attr(title).slice(attr(title).indexOf(']') + 1);
       }
     }
 
