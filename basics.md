@@ -1,6 +1,7 @@
 ---
 title: '"Основи"'
 layout: page
+toc: "true"
 ---
 ## Основи
 
