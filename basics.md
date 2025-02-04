@@ -1,7 +1,6 @@
 ---
 title: '"Основи"'
-layout: doks
-permalink: /basics/
+layout: page
 ---
 ## Основи
 
