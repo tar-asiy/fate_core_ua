@@ -5,7 +5,7 @@ title: "Fate Core UA"
 description: "Перекладена версія офіційного довідника правил Fate Core System."
 
 # Тема, яку ви використовуєте (Doks)
-remote_theme: getdoks/doks@2.2.0
+remote_theme: getdoks/doks@v2.2.0
 
 # Базова URL-адреса (якщо сайт розміщується не в корені домену)
 # Якщо ваш сайт розміщено за адресою "https://tar-asiy.github.io/fate_core_ua/", то baseurl має бути встановлено як "/fate_core_ua"
