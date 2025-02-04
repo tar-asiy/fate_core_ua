@@ -18,6 +18,12 @@ url: "https://tar-asiy.github.io"
 plugins:
   - jekyll-remote-theme
 
+# увімкнено опцію для відображення змісту
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
 # Інші опції налаштування (опціонально)
 # Наприклад, встановлення мовних параметрів, логотипу, навігаційного меню тощо
 # markdown: kramdown
