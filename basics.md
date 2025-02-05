@@ -1,7 +1,7 @@
 ---
-title: '"Основи"'
+title: Основи
 layout: default
-new order: "2"
+new order: "3"
 ---
 ## Основи
 
