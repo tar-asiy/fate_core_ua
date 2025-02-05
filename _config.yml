@@ -26,14 +26,29 @@ search_enabled: true
 toc:
   enabled: true
 
-# вмикаємо callouts
+# вимикаємо заголовки callouts
 callouts:
-  warning:
-    title: Warning
-    color: red
-  important:
-    title: Important
-    color: blue
   note:
-    title: Note
+    title: ""
+    color: blue
+  warning:
+    title: ""
+    color: yellow
+  danger:
+    title: ""
+    color: red
+  info:
+    title: ""
     color: purple
+  tip:
+    title: ""
+    color: green
+  important:
+    title: ""
+    color: blue
+  new:
+    title: ""
+    color: green
+  highlight:
+    title: ""
+    color: yellow
