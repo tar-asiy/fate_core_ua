@@ -27,4 +27,28 @@ toc:
   enabled: true
 
 # вимикаємо заголовки callouts
-callouts_level: quiet  # це прибере всі заголовки для всіх типів callouts
+callouts:
+  note:
+    title: ""
+    color: blue
+  warning:
+    title: ""
+    color: yellow
+  danger:
+    title: ""
+    color: red
+  info:
+    title: ""
+    color: purple
+  tip:
+    title: ""
+    color: green
+  important:
+    title: ""
+    color: blue
+  new:
+    title: ""
+    color: green
+  highlight:
+    title: ""
+    color: yellow
