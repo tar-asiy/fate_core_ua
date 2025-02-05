@@ -1,7 +1,7 @@
 ---
 title: '"Основи"'
-layout: page
-toc: "true"
+layout: default
+new order: "2"
 ---
 ## Основи
 
