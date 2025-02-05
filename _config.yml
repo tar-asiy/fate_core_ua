@@ -26,14 +26,5 @@ search_enabled: true
 toc:
   enabled: true
 
-# вмикаємо callouts
-callouts:
-  warning:
-    title: Warning
-    color: red
-  important:
-    title: Important
-    color: blue
-  note:
-    title: Note
-    color: purple
+# вимикаємо заголовки callouts
+callouts_level: quiet  # це прибере всі заголовки для всіх типів callouts
