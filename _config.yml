@@ -35,7 +35,7 @@ callouts:
   note:
     color: blue       # синій для загальних приміток
   secondary:
-    color: grey-lk    # світло-сірий для другорядних блоків
+    color: grey-lt    # світло-сірий для другорядних блоків
   important:
     color: purple     # фіолетовий для важливих повідомлень
   tip:
