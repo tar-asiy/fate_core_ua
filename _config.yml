@@ -33,19 +33,19 @@ callouts:
     color: blue        # основний синій для загальних приміток (primary)
   info:
     title: ""
-    color: teal       # бірюзовий для інформаційних блоків
+    color: purple     # фіолетовий для інформаційних блоків
   tip:
     title: ""
-    color: brown      # коричневий для порад
+    color: green      # зелений для порад
   success:
     title: ""
-    color: darkgreen  # темно-зелений для повідомлень про успіх
+    color: green      # зелений для повідомлень про успіх
   warning:
     title: ""
     color: orange     # помаранчевий для попереджень
   caution:
     title: ""
-    color: pink       # рожевий для застережень (ближче до danger)
+    color: pink       # рожевий для застережень
   danger:
     title: ""
     color: red        # червоний для небезпеки
@@ -57,10 +57,10 @@ callouts:
     color: yellow     # жовтий для виділення
   new:
     title: ""
-    color: lime       # світло-зелений для нового контенту
+    color: green      # зелений для нового контенту
   secondary:
     title: ""
-    color: lightblue  # світло-синій як другорядний варіант primary
+    color: blue       # світло-синій як другорядний варіант primary
   example:
     title: ""
-    color: gray       # сірий для прикладів
+    color: grey       # сірий для прикладів
