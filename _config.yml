@@ -30,37 +30,37 @@ toc:
 callouts:
   note:
     title: ""
-    color: blue        # основний синій для загальних приміток (primary)
+    color: blue       # синій
   info:
     title: ""
-    color: purple     # фіолетовий для інформаційних блоків
+    color: blue      # синій для інформації
   tip:
     title: ""
-    color: green      # зелений для порад
+    color: green     # зелений для порад
   success:
     title: ""
-    color: green      # зелений для повідомлень про успіх
+    color: green     # зелений для успіху
   warning:
     title: ""
-    color: orange     # помаранчевий для попереджень
+    color: red       # червоний для попереджень
   caution:
     title: ""
-    color: pink       # рожевий для застережень
+    color: red       # червоний для застережень
   danger:
     title: ""
-    color: red        # червоний для небезпеки
+    color: red       # червоний для небезпеки
   important:
     title: ""
-    color: purple     # фіолетовий для важливих повідомлень
+    color: purple    # фіолетовий для важливого
   highlight:
     title: ""
-    color: yellow     # жовтий для виділення
+    color: blue      # синій для виділення
   new:
     title: ""
-    color: green      # зелений для нового контенту
+    color: green     # зелений для нового
   secondary:
     title: ""
-    color: blue       # світло-синій як другорядний варіант primary
+    color: blue      # синій для другорядного
   example:
     title: ""
-    color: grey       # сірий для прикладів
+    color: blue      # синій для прикладів
