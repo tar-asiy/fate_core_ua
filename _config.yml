@@ -26,29 +26,41 @@ search_enabled: true
 toc:
   enabled: true
 
-# вимикаємо заголовки callouts
+# налаштовуємо кольори callouts і вимикаємо там заголовки
 callouts:
   note:
     title: ""
-    color: blue
-  warning:
-    title: ""
-    color: yellow
-  danger:
-    title: ""
-    color: red
+    color: blue        # основний синій для загальних приміток (primary)
   info:
     title: ""
-    color: purple
+    color: teal       # бірюзовий для інформаційних блоків
   tip:
     title: ""
-    color: green
+    color: brown      # коричневий для порад
+  success:
+    title: ""
+    color: darkgreen  # темно-зелений для повідомлень про успіх
+  warning:
+    title: ""
+    color: orange     # помаранчевий для попереджень
+  caution:
+    title: ""
+    color: pink       # рожевий для застережень (ближче до danger)
+  danger:
+    title: ""
+    color: red        # червоний для небезпеки
   important:
     title: ""
-    color: blue
-  new:
-    title: ""
-    color: green
+    color: purple     # фіолетовий для важливих повідомлень
   highlight:
     title: ""
-    color: yellow
+    color: yellow     # жовтий для виділення
+  new:
+    title: ""
+    color: lime       # світло-зелений для нового контенту
+  secondary:
+    title: ""
+    color: lightblue  # світло-синій як другорядний варіант primary
+  example:
+    title: ""
+    color: gray       # сірий для прикладів
