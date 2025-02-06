@@ -28,39 +28,24 @@ toc:
 
 # налаштовуємо кольори callouts і вимикаємо там заголовки
 callouts:
-  note:
-    title: ""
-    color: blue       # синій
-  info:
-    title: ""
-    color: blue      # синій для інформації
-  tip:
-    title: ""
-    color: green     # зелений для порад
-  success:
-    title: ""
-    color: green     # зелений для успіху
-  warning:
-    title: ""
-    color: red       # червоний для попереджень
-  caution:
-    title: ""
-    color: red       # червоний для застережень
   danger:
     title: ""
-    color: red       # червоний для небезпеки
+    color: red        # червоний для критичних попереджень
+  warning:
+    title: ""
+    color: yellow     # жовтий для важливих попереджень
+  note:
+    title: ""
+    color: blue       # синій для загальних приміток
+  info:
+    title: ""
+    color: grey-dk    # темно-сірий для інформаційних блоків
   important:
     title: ""
-    color: purple    # фіолетовий для важливого
-  highlight:
+    color: purple     # фіолетовий для важливих повідомлень
+  tip:
     title: ""
-    color: blue      # синій для виділення
-  new:
-    title: ""
-    color: green     # зелений для нового
-  secondary:
-    title: ""
-    color: blue      # синій для другорядного
+    color: green      # зелений для корисних порад
   example:
     title: ""
-    color: blue      # синій для прикладів
+    color: grey-lt    # світло-сірий для прикладів
