@@ -80,7 +80,7 @@
 | Term                      | Category                            | Translation                     | Примітка                                                                     |
 | ------------------------- | ----------------------------------- | ------------------------------- | ---------------------------------------------------------------------------- |
 | Fate Points               | Aspects and Fate Points             | Заряди долі                     |                                                                              |
-| Invoking an Aspect        | Aspects and Fate Points             | Виклакати аспект                |                                                                              |
+| Invoking an Aspect        | Aspects and Fate Points             | Викликати аспект                |                                                                              |
 | Declaring a Story Detail  | Aspects and Fate Points             | Заявлення деталі історії        |                                                                              |
 | Compelling an Aspect      | Aspects and Fate Points             | Спонукати аспект                | a compell - спонука                                                          |
 | Overcome (an Obstacle)    | Actions and Outcomes                | Подолати (перешкоду)            |                                                                              |
@@ -107,7 +107,7 @@
 | Refresh                   | Aspects and Fate Points             | Перезарядка                     |                                                                              |
 | Double-edged              | Aspects and Fate Points             | Двоякий                         |                                                                              |
 | Powering an Aspect        | Aspects and Fate Points             | Зарядженна активація (аспекту)  |                                                                              |
-| Refuse a Compell          | Aspects and Fate Points             | Скасувати (нав'язану) активацію |                                                                              |
+| Refuse a Compel           | Aspects and Fate Points             | Скасувати спонуку               |                                                                              |
 | Concede in a Conflict     | Challenges, Contests, and Conflicts | Здача в конфлікті               |                                                                              |
 | Success with Style        | Actions and Outcomes                | Успіх зі стилем                 |                                                                              |
 | Extras                    | Miscellaneous                       | Додатки                         |                                                                              |
@@ -144,6 +144,14 @@
 | Roll the dice             | Core                                | кидати/накидати кубики          | Для дії використовуємо "кидати/кинути", для результату - "накидати/накинути" |
 | Active/Passive opposition | Actions and Outcomes                | активна/пасивна протидія        |                                                                              |
 | Shift                     | Actions and Outcomes                | зсув                            |                                                                              |
+| Boost                     | Aspects and Fate Points             | Імпульс                         | Надкороткотривалий одноразовий аспект                                        |
+| Consequences              | Aspects and Fate Points             | Наслідки                        |                                                                              |
+| Game Aspects              | Aspects and Fate Points             | Аспекти гри                     |                                                                              |
+| Character Aspects         | Aspects and Fate Points             | Аспекти персонажів              |                                                                              |
+| Situation Aspects         | Aspects and Fate Points             | Ситуаційні аспекти              |                                                                              |
+| Free Invocation           | Aspects and Fate Points             | Безкоштовний виклик             |                                                                              |
+| Create an Advantage       | Actions and Outcomes                | Створити перевагу               |                                                                              |
+| Taken out                 | Challenges, Contests, and Conflicts | Вибути                          |                                                                              |
 
 Ось оновлений розділ для [[readme]], де я розширив частину про спеціальне форматування, включаючи інструкції щодо посилань:
 
