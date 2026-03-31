@@ -152,6 +152,8 @@
 | Free Invocation           | Aspects and Fate Points             | Безкоштовний виклик             |                                                                              |
 | Create an Advantage       | Actions and Outcomes                | Створити перевагу               |                                                                              |
 | Taken out                 | Challenges, Contests, and Conflicts | Вибути                          |                                                                              |
+| Event-based Compel        | Aspects and Fate Points             | Зовнішня спонука                | Світ навколо реагує на аспект і створює ускладнення                          |
+| Decision-based Compel     | Aspects and Fate Points             | Внутрішня спонука               | Персонаж приймає рішення через свій аспект, і все йде не так                 |
 
 Ось оновлений розділ для [[readme]], де я розширив частину про спеціальне форматування, включаючи інструкції щодо посилань:
 
