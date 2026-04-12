@@ -84,7 +84,7 @@
 | Invoking an Aspect        | Aspects and Fate Points             | Викликати аспект                |                                                                              |
 | Declaring a Story Detail  | Aspects and Fate Points             | Заявлення деталі історії        |                                                                              |
 | Compelling an Aspect      | Aspects and Fate Points             | Спонукати аспект                | a compell - спонука                                                          |
-| Overcome (an Obstacle)    | Actions and Outcomes                | Подолати (перешкоду)            |                                                                              |
+| Overcome (an Obstacle)    | Actions and Outcomes                | Здолати перешкоду               |                                                                              |
 | Skills                    | Skills and Stunts                   | Навички                         |                                                                              |
 | Burglary                  | Skills and Stunts                   | Крадійство                      |                                                                              |
 | Crafts                    | Skills and Stunts                   | Ремесла                         |                                                                              |
